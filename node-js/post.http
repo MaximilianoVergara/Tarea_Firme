@@ -1,0 +1,7 @@
+
+PUT  http://localhost:3000/api/data/36049816
+Content-Type: application/json
+
+{
+    "blocked": 0
+}
